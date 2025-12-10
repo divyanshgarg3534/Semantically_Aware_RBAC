@@ -1,0 +1,345 @@
+﻿UserPrincipalName,DirectoryRoles
+1,"Reports Reader, Global Reader"
+2,"Reports Reader, Security Reader"
+3,Global Reader
+4,Insights Analyst
+5,Reports Reader
+6,"Reports Reader, Security Reader"
+7,"Reports Reader, Insights Analyst"
+8,Security Reader
+9,Reports Reader
+10,Global Reader
+11,Global Reader
+12,"Reports Reader, Security Reader"
+13,Security Reader
+14,Reports Reader
+15,"Reports Reader, Security Reader"
+16,Global Reader
+17,Global Reader
+18,"Reports Reader, Global Reader, Security Reader"
+19,Global Reader
+20,Security Reader
+21,Reports Reader
+22,Reports Reader
+23,Global Reader
+24,Global Reader
+25,Insights Analyst
+26,Reports Reader
+27,Reports Reader
+28,Insights Analyst
+29,Security Reader
+30,Reports Reader
+31,Reports Reader
+32,"AI Administrator, Reports Reader, Global Reader, Search Administrator, Insights Analyst, Yammer Administrator"
+33,Reports Reader
+34,Insights Analyst
+35,Global Reader
+36,Reports Reader
+37,"Privileged Authentication Administrator, Reports Reader"
+38,"Fabric Administrator, Global Reader"
+39,Reports Reader
+40,Reports Reader
+41,Global Reader
+42,Reports Reader
+43,"Reports Reader, Security Reader"
+44,Reports Reader
+45,Security Reader
+46,Reports Reader
+47,"Reports Reader, Global Reader"
+48,Security Reader
+49,Teams Administrator
+50,Security Reader
+51,Reports Reader
+52,"Reports Reader, Power Platform Administrator"
+53,Cloud App Security Administrator
+54,Security Reader
+55,Reports Reader
+56,"Reports Reader, Security Reader"
+57,Reports Reader
+58,Cloud App Security Administrator
+59,Reports Reader
+60,Security Reader
+61,Reports Reader
+62,Security Reader
+63,Skype for Business Administrator
+64,Insights Analyst
+65,"Cloud App Security Administrator, Reports Reader"
+66,"Organizational Data Source Administrator, Intune Administrator, Windows 365 Administrator, AI Administrator, Reports Reader, Groups Administrator, Teams Administrator, Global Reader, Power Platform Administrator, Search Administrator, Insights Analyst, Yammer Administrator, Viva Glint Tenant Administrator"
+67,"Global Reader, Yammer Administrator"
+68,Exchange Administrator
+69,Reports Reader
+70,Cloud Device Administrator
+71,"Reports Reader, Security Reader"
+72,Global Reader
+73,Reports Reader
+74,Security Reader
+75,"Windows 365 Administrator, Global Reader"
+76,Security Reader
+77,"Application Administrator, Reports Reader, Security Reader"
+78,Intune Administrator
+79,Global Reader
+80,Fabric Administrator
+81,Global Reader
+82,Global Reader
+83,Reports Reader
+84,Reports Reader
+85,Global Reader
+86,Reports Reader
+87,"Global Reader, Security Reader"
+88,Security Reader
+89,Global Reader
+90,Reports Reader
+91,"SharePoint Administrator, Exchange Administrator, Teams Administrator, Global Reader, Power Platform Administrator"
+92,"SharePoint Administrator, Global Reader"
+93,Fabric Administrator
+94,"Intune Administrator, Reports Reader, Global Reader"
+95,Reports Reader
+96,"Teams Administrator, Global Reader, Security Reader"
+97,Reports Reader
+98,Global Administrator
+99,"Teams Administrator, Global Reader"
+100,"Teams Communications Support Engineer, Teams Administrator, Teams Communications Administrator, Skype for Business Administrator, User Administrator"
+101,"SharePoint Administrator, Exchange Administrator, Global Reader"
+102,Global Reader
+103,"Application Administrator, SharePoint Administrator, Reports Reader, Teams Administrator, Global Reader, Power Platform Administrator"
+104,"Reports Reader, Global Reader"
+105,Azure Information Protection Administrator
+106,Global Reader
+107,Global Reader
+108,"Global Reader, Insights Analyst, Yammer Administrator"
+109,Reports Reader
+110,Reports Reader
+111,Reports Reader
+112,Global Reader
+113,Fabric Administrator
+114,Security Reader
+115,Reports Reader
+116,Reports Reader
+117,Reports Reader
+118,"Privileged Authentication Administrator, Reports Reader"
+119,"Global Reader, Security Reader"
+120,Reports Reader
+121,Reports Reader
+122,Reports Reader
+123,Security Reader
+124,"Global Reader, Security Reader"
+125,"Reports Reader, Security Reader"
+126,"Reports Reader, Security Reader"
+127,"Reports Reader, Security Reader"
+128,"Reports Reader, Security Reader"
+129,Global Reader
+130,Security Reader
+131,"Application Administrator, AI Administrator, Reports Reader, Global Reader, Search Administrator, Yammer Administrator, Viva Glint Tenant Administrator"
+132,"Reports Reader, Global Reader"
+133,"Fabric Administrator, Viva Glint Tenant Administrator"
+134,Global Reader
+135,Reports Reader
+136,Security Reader
+137,Security Reader
+138,"Reports Reader, Security Reader"
+139,Security Reader
+140,"Global Reader, Security Reader"
+141,Compliance Administrator
+142,Reports Reader
+143,"Reports Reader, Security Reader"
+144,Reports Reader
+145,Reports Reader
+146,Reports Reader
+147,Reports Reader
+148,"SharePoint Administrator, Windows 365 Administrator, Global Reader"
+149,Reports Reader
+150,Reports Reader
+151,"Reports Reader, Security Reader"
+152,Global Reader
+153,Reports Reader
+154,Security Reader
+155,Reports Reader
+156,Reports Reader
+157,Reports Reader
+158,Reports Reader
+159,"Global Reader, Security Reader"
+160,Security Reader
+161,"Global Reader, Security Reader"
+162,Reports Reader
+163,Global Reader
+164,"Privileged Authentication Administrator, Reports Reader"
+165,Global Reader
+166,"Global Reader, Security Reader"
+167,Global Reader
+168,Reports Reader
+169,"Global Reader, Security Reader"
+170,Global Reader
+171,"Windows 365 Administrator, Global Reader"
+172,"Global Reader, Security Reader"
+173,Global Reader
+174,Reports Reader
+175,"Windows 365 Administrator, Global Reader"
+176,"Privileged Authentication Administrator, Reports Reader"
+177,Reports Reader
+178,Reports Reader
+179,Reports Reader
+180,Reports Reader
+181,Global Reader
+182,"SharePoint Administrator, Global Reader"
+183,Reports Reader
+184,"Reports Reader, Billing Administrator"
+185,"Reports Reader, Security Reader"
+186,"Reports Reader, Global Reader, Insights Analyst"
+187,Reports Reader
+188,Fabric Administrator
+189,Reports Reader
+190,"Application Administrator, Reports Reader, Security Reader, User Administrator"
+191,Security Reader
+192,"Privileged Authentication Administrator, Reports Reader"
+193,Reports Reader
+194,Global Reader
+195,Reports Reader
+196,"Global Reader, Security Reader"
+197,Global Reader
+198,"Global Reader, Security Reader"
+199,Reports Reader
+200,"Reports Reader, Security Reader"
+201,"Windows 365 Administrator, Global Reader"
+202,Reports Reader
+203,SharePoint Administrator
+204,Reports Reader
+205,Global Reader
+206,Security Reader
+207,Reports Reader
+208,"Reports Reader, Security Reader"
+209,Global Reader
+210,Reports Reader
+211,"Reports Reader, Security Reader"
+212,"Privileged Authentication Administrator, Reports Reader"
+213,"Privileged Authentication Administrator, Reports Reader"
+214,Reports Reader
+215,"Privileged Authentication Administrator, Reports Reader"
+216,Global Reader
+217,"Application Administrator, Privileged Authentication Administrator, Reports Reader, Security Reader"
+218,Reports Reader
+219,"Global Reader, Security Reader"
+220,"Global Reader, Security Reader"
+221,Reports Reader
+222,"Global Reader, Security Reader"
+223,Reports Reader
+224,Fabric Administrator
+225,Security Reader
+226,"Global Reader, Security Reader"
+227,"Intune Administrator, Reports Reader, Global Reader"
+228,Security Reader
+229,"Global Reader, Security Reader"
+230,Global Reader
+231,Reports Reader
+232,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+233,"Application Administrator, Security Administrator, Global Reader, Search Administrator, User Administrator"
+234,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+235,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+236,Security Reader
+237,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+238,Reports Reader
+239,Reports Reader
+240,Global Reader
+241,"SharePoint Administrator, Global Reader"
+242,Security Reader
+243,Security Reader
+244,"SharePoint Administrator, Exchange Administrator, Global Reader"
+245,Security Reader
+246,"Global Reader, Security Reader"
+247,Global Reader
+248,Security Reader
+249,"Global Reader, Security Reader"
+250,"Reports Reader, Security Reader"
+251,Reports Reader
+252,"Application Administrator, Privileged Authentication Administrator, Reports Reader, Security Reader, User Administrator"
+253,Security Reader
+254,Cloud App Security Administrator
+255,Reports Reader
+256,"Privileged Authentication Administrator, Reports Reader"
+257,Reports Reader
+258,Reports Reader
+259,Reports Reader
+260,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+261,Power Platform Administrator
+262,"Reports Reader, Security Reader"
+263,"Reports Reader, Security Reader"
+264,"Reports Reader, Security Reader"
+265,"Reports Reader, Security Reader"
+266,"Reports Reader, Security Reader"
+267,"Global Reader, Security Reader"
+268,Reports Reader
+269,Global Reader
+270,"Global Reader, Security Reader"
+271,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+272,"Intune Administrator, Reports Reader, Global Reader"
+273,"Global Reader, Security Reader"
+274,Global Reader
+275,Directory Readers
+276,"Reports Reader, Security Reader"
+277,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+278,Reports Reader
+279,Global Reader
+280,"Global Reader, Security Reader"
+281,Cloud App Security Administrator
+282,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+283,Reports Reader
+284,Reports Reader
+285,Reports Reader
+286,Reports Reader
+287,Reports Reader
+288,Global Reader
+289,Reports Reader
+290,Reports Reader
+291,Reports Reader
+292,Reports Reader
+293,"Reports Reader, Security Reader"
+294,Global Reader
+295,"Reports Reader, Security Reader"
+296,"Reports Reader, Security Reader"
+297,Security Reader
+298,Reports Reader
+299,Security Reader
+300,Billing Administrator
+301,Global Reader
+302,"Reports Reader, Security Reader"
+303,Security Reader
+304,Reports Reader
+305,Security Reader
+306,"Application Administrator, Reports Reader, User Administrator"
+307,Intune Administrator
+308,Security Reader
+309,Reports Reader
+310,Global Reader
+311,Reports Reader
+312,Security Reader
+313,Reports Reader
+314,Security Reader
+315,Security Reader
+316,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+317,Security Reader
+318,Security Reader
+319,"Privileged Authentication Administrator, Reports Reader"
+320,Security Reader
+321,Security Reader
+322,Search Administrator
+323,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+324,Global Reader
+325,"Teams Devices Administrator, Teams Communications Administrator"
+326,Security Reader
+327,"Privileged Authentication Administrator, Reports Reader"
+328,Security Reader
+329,Security Reader
+330,Security Reader
+331,Insights Analyst
+332,Reports Reader
+333,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+334,"Application Administrator, Security Administrator, Global Reader, User Administrator"
+335,"Privileged Authentication Administrator, Reports Reader, User Administrator"
+336,Directory Synchronization Accounts
+337,Insights Analyst
+338,Directory Synchronization Accounts
+339,Search Administrator
+340,Reports Reader
+341,Reports Reader
+342,Reports Reader
+343,Security Reader
+344,"Application Administrator, Security Administrator, Global Reader, User Administrator"
